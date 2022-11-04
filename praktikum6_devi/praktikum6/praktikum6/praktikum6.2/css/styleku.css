@@ -1,0 +1,45 @@
+#header{
+    background-color: bisque;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+blockquote{
+    background-color: orange;
+    border: 1px dotted black;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nav ul li{
+    margin: 0em 1em;
+}
+
+.gambar{
+    text-align: center;
+}
+.gambar img{
+    width: 25%;
+}
+
+.jawa{
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
+.promo{
+    color: red;
+    text-align: center;
+}
